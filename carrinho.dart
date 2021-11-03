@@ -26,4 +26,5 @@ main() {
 
 imprimir() {
   print(produtos);
+  print("\n");
 }
